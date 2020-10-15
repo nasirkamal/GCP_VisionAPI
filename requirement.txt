@@ -1,0 +1,4 @@
+numpy==1.18.0
+pandas==0.25.3
+google-cloud-vision==0.41.0
+opencv-python==4.1.2.30
